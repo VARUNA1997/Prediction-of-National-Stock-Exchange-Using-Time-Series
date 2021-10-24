@@ -22,3 +22,8 @@ Close — The close is a reference to the end of a trading session in the financ
 Volume — It is the amount of a security that was traded during a given period of time
 
 Turnover -It is a measure of sellers versus buyers of a particular stock. It is calculated by dividing the daily volume of a stock by the “float” of a stock, which is the number of shares available for sale by the general trading public.
+
+## Distribution of stock measures
+Let’s witness the histogram distribution of the stock measures such as open,close,high,low.
+![image](https://user-images.githubusercontent.com/89696170/138592926-db42f7dc-f9ec-4846-afcf-ff8fa38718e7.png)
+
