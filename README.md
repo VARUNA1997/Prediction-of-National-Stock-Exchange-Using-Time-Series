@@ -2,5 +2,7 @@
 
 ### Objectives of the project
 1.Data Preparation
+
 2.Data Visualization
+
 3.Building a time series model
